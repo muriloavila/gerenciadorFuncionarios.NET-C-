@@ -1,0 +1,11 @@
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\bin\Debug\gerenciadorFuncionarios.exe.config
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\bin\Debug\gerenciadorFuncionarios.exe
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\bin\Debug\gerenciadorFuncionarios.pdb
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.csprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.frmPrincipal.resources
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.frmAdd.resources
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.frmUpdate.resources
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.Properties.Resources.resources
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.csproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.exe
+c:\users\murilo\documents\visual studio 2013\Projects\gerenciadorFuncionarios\gerenciadorFuncionarios\obj\Debug\gerenciadorFuncionarios.pdb
